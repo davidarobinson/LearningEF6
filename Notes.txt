@@ -1,0 +1,7 @@
+
+https://stackoverflow.com/questions/27747599/modelbuilder-configurations-add-and-modelbuilder-entity-on-onmodelcreating
+https://stackoverflow.com/questions/12317070/set-maxlength-on-baseclass-for-poco-objects-with-fluent-api
+http://www.entityframeworktutorial.net/code-first
+
+https://dzone.com/articles/code-first-model-validation-with-fluent-api
+https://www.learnentityframeworkcore.com/configuration/fluent-api/hasdefaultvalue-method
