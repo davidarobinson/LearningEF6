@@ -1,0 +1,1 @@
+This repository was going to be part of a larger multi-part series on using EntityFramework 6 with .Net Framework, however this did not end up happening so the decision has been made to archive this repository.
